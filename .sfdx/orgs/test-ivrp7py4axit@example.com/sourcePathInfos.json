@@ -1,0 +1,215 @@
+[
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538491466156,
+            "changeTime": 1538491466156,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538491466156,
+            "changeTime": 1538491466156,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538491466156,
+            "changeTime": 1538491466156,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538492085269,
+            "changeTime": 1538492085269,
+            "contentHash": "09844a914358cea9b57202c0a063c62975838939",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538492085304,
+            "changeTime": 1538492085304,
+            "contentHash": "af9efc9f8dc0c78f94f3ceb2733dfe8f9351f40c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.auradoc",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538492085303,
+            "changeTime": 1538492085303,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 58,
+            "modifiedTime": 1538492389975,
+            "changeTime": 1538492389975,
+            "contentHash": "e98895f56d98b2a4893d58b89f6554f51dad12eb"
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538492389965,
+            "changeTime": 1538492389965,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1538492389983,
+            "changeTime": 1538492389983,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.design",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538492085306,
+            "changeTime": 1538492085306,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.svg",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLD.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1538492085300,
+            "changeTime": 1538492085300,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLDController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLDController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1538492389978,
+            "changeTime": 1538492389978,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLDHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLDHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1538492389981,
+            "changeTime": 1538492389981,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLDRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject\\force-app\\main\\default\\aura\\HELLLOWORLD\\HELLLOWORLDRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1538492389972,
+            "changeTime": 1538492389972,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject",
+        {
+            "sourcePath": "c:\\Users\\Dharmendra Singh\\SampleDXProject\\HelloWorldProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538491629000,
+            "changeTime": 1538491629000,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
